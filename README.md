@@ -12,7 +12,9 @@ Validate entry in postgres
 
 Running fine - 
 ![Image](https://github.com/Satyaprkash-Sigmoid/Kubernetes-assignment/blob/master/Airflow_running_on_Kubernetes.png)
-<<<<<<< HEAD
+
+Dag with execution time - 
+![Image](https://github.com/Satyaprkash-Sigmoid/Kubernetes-Assignment/blob/master/execution-details%20for%20dag%20.png)
 
 
 # kubernetes-assignment
