@@ -12,6 +12,7 @@ Validate entry in postgres
 
 Running fine - 
 ![Image](https://github.com/Satyaprkash-Sigmoid/Kubernetes-assignment/blob/master/Airflow_running_on_Kubernetes.png)
+<<<<<<< HEAD
 
 
 # kubernetes-assignment
@@ -36,3 +37,5 @@ export FERNET_KEY=$FERNET_KEY
 airflow initdb
 
 -> kubectl port-forward svc/puckel-service 8080:8080 
+=======
+>>>>>>> 10dff3c74b50b73f1286c332069685b58cedc6ba
