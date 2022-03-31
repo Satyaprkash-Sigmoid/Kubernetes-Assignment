@@ -37,5 +37,4 @@ export FERNET_KEY=$FERNET_KEY
 airflow initdb
 
 -> kubectl port-forward svc/puckel-service 8080:8080 
-=======
->>>>>>> 10dff3c74b50b73f1286c332069685b58cedc6ba
+
