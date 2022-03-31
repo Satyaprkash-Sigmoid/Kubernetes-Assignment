@@ -17,7 +17,7 @@ Dag with execution time -
 ![Image](https://github.com/Satyaprkash-Sigmoid/Kubernetes-Assignment/blob/master/execution-details%20for%20dag%20.png)
 
 
-# kubernetes-assignment
+# Process to run Assignment
 -> start docker
 
 -> minikube start 
